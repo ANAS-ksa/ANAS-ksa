@@ -1,140 +1,125 @@
-<h1 align="center">Hi, I'm Anas Saeed 👋</h1>
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <b>Software Developer | Mobile & Backend Development</b>
+  <b>Software Developer | Programming & Smart Devices Applications Graduate</b>
 </p>
 
 <p align="center">
-  Flutter • Spring Boot • Firebase • MySQL
+  Java • C# • JavaScript • PHP • Swift • Android Development
 </p>
 
 <p align="center">
   📍 Saudi Arabia
 </p>
 
----
+<hr>
 
-## About Me
-
-I am a recent graduate in Programming and Smart Devices Applications from Imam Abdulrahman Bin Faisal University.
-
-My primary focus is Mobile and Backend Development. I enjoy building software solutions from requirements analysis and database design to backend APIs and mobile applications.
-
-I have practical experience developing applications using Flutter, Spring Boot, Firebase, and MySQL, and I am continuously improving my skills through real-world projects and self-learning.
-
----
-
-## Tech Stack
-
-### Languages
+<h2>About Me</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,dart,swift,cs,php,js" />
+I am a graduate of Programming and Smart Devices Applications.
+I have experience developing academic software projects using Java, C#, PHP, JavaScript, Swift, HTML, and CSS.
+My interests include software development, mobile applications, and web technologies.
 </p>
 
-### Mobile Development
+<h2>Tech Stack</h2>
+
+<h3>Languages</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dotnet" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=swift" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-- Flutter
-- Android Development
-- iOS Development (SwiftUI)
-- Cross-Platform Development (.NET MAUI)
-
-### Backend Development
+<h3>Mobile Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://skillicons.dev/icons?i=swift" />
 </p>
 
-- Spring Boot
-- REST APIs
+<ul>
+<li>Android Development</li>
+<li>SwiftUI</li>
+<li>Android XML UI</li>
+</ul>
 
-### Databases
+<h3>.NET Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
 </p>
 
-- MySQL
-- Firebase
-
-### Tools & Platforms
+<h3>Web Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=php" />
 </p>
 
----
+<h3>Tools & Platforms</h3>
 
-## Technical Skills
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms Fundamentals
-- System Analysis & Software Requirements
-- Database Design & SQL
-- REST API Development
-- Git & GitHub Version Control
-- UI/UX Fundamentals
-
----
-
-## Projects
-
-### 📱 Portfolio Application
-
-**Flutter • Spring Boot • MySQL**
-
-A portfolio platform that allows users to showcase projects, skills, and professional information through a modern mobile application powered by a Spring Boot backend.
-
----
-
-### 🎓 Tadarbi Application
-
-**Flutter • Firebase**
-
-A mobile application designed to support students during their training journey with a simple and user-friendly experience.
-
----
-
-### ✈️ Kingdom Airlines Application
-
-**SwiftUI**
-
-An airline reservation simulation application featuring flight browsing, booking workflows, and modern UI design.
-
----
-
-### 🏦 Bank Management System
-
-**Java**
-
-A banking management system developed using Object-Oriented Programming principles, focusing on account management and banking operations.
-
----
-
-## Currently Learning
-
-- Spring Security & JWT
-- Flutter Architecture
-- Backend Development Best Practices
-- Software Design Principles
-
----
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mh06a&layout=compact" />
+<p>
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
+<img src="https://skillicons.dev/icons?i=netbeans" />
 </p>
 
----
+<h2>Projects</h2>
 
-## Contact Me
+<h3>✈️ Kingdom Airlines Application</h3>
 
-📧 Email: Mansour.06.ab.06@gmail.com
+<b>SwiftUI</b>
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/mansour-hussain-b33113217/
+<p>
+An airline reservation application that allows users to book domestic flights within Saudi Arabia.
+</p>
+
+<h3>🌐 Online Quiz Website</h3>
+
+<b>HTML • CSS • JavaScript • PHP</b>
+
+<p>
+A web-based quiz platform that presents multiple-choice questions and evaluates user answers.
+</p>
+
+<h3>💻 Quiz Application</h3>
+
+<b>C#</b>
+
+<p>
+A desktop quiz application that allows users to answer questions and receive results.
+</p>
+
+<h3>📱 Review Application</h3>
+
+<b>Android XML</b>
+
+<p>
+A mobile application designed for educational review and multiple-choice practice.
+</p>
+
+<h2>Currently Learning</h2>
+
+<ul>
+<li>Advanced Java Programming</li>
+<li>.NET Development</li>
+<li>Android Development</li>
+<li>Web Development</li>
+<li>Software Design Principles</li>
+</ul>
+
+<h2>Contact</h2>
+
+<p>
+📧 Email: your-email@example.com
+</p>
