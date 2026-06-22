@@ -17,9 +17,11 @@
 <h2>About Me</h2>
 
 <p>
-I am a graduate of Programming and Smart Devices Applications.
-I have experience developing academic software projects using Java, C#, PHP, JavaScript, Swift, HTML, and CSS.
-My interests include software development, mobile applications, and web technologies.
+I am a recent graduate in Programming and Smart Devices Applications from Imam Abdulrahman Bin Faisal University.
+
+My primary focus is Mobile and Backend Development. I enjoy building software solutions from requirements analysis and database design to backend APIs and mobile applications.
+
+I have practical experience developing applications, and I am continuously improving my skills through real-world projects and self-learning.
 </p>
 
 <h2>Tech Stack</h2>
