@@ -123,5 +123,5 @@ A mobile application designed for educational review and multiple-choice practic
 <h2>Contact</h2>
 
 <p>
-📧 Email: your-email@example.com
+📧 Email: brdmrh909a@gmail.com
 </p>
